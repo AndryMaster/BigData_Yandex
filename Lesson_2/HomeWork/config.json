@@ -1,0 +1,5 @@
+{
+    "proxy": {
+        "enable_proxy_discovery": false
+    }
+}
