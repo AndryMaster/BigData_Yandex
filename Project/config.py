@@ -1,4 +1,4 @@
-IS_NOTEBOOK = True
+IS_NOTEBOOK = False
 PATH = None
 
 if IS_NOTEBOOK:
